@@ -1,0 +1,6 @@
+api\repository\CidadeRepository.class
+api\model\Cidade.class
+api\service\CidadeService.class
+api\web\CidadeResource.class
+Application.class
+api\service\CidadeServiceImpl.class
